@@ -2,7 +2,7 @@
 
 Here's a quick [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) function to give you a seeded random 2D point between (0,0) and (1,1)!
 
-[Download](./Random 2D Point.asset)
+[Download](./Random%202D%20Point.asset)
 
 How it works:
 
